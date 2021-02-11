@@ -10,10 +10,10 @@ public class if_else_1 {
 		
 		if(num<0)
 		{
-			System.out.println("The number is negative");
+			System.out.println("The number is -ve");
 		}
 		else if(num>0) {
-			System.out.println("The number is postive");
+			System.out.println("The number is +ve");
 		}
 		else {
 			System.out.println("The number is zero");
